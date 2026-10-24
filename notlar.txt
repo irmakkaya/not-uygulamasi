@@ -1,0 +1,5 @@
+1. ls - Dizin içeriğini listeler
+2. cd - Dizin değiştirir
+3. pwd - Bulunan dizini gösterir
+4. mkdir - Yeni klasör oluşturur
+5. rm - Dosya siler
