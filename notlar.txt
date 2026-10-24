@@ -3,3 +3,8 @@
 3. pwd - Bulunan dizini gösterir
 4. mkdir - Yeni klasör oluşturur
 5. rm - Dosya siler
+6. git init - Repo baslatir
+7. git status - Durumu kontrol eder
+8. git add - Staging'e ekler
+9. git commit - Degisiklikleri kaydeder
+10. git push - Remote'a gonderir
